@@ -59,7 +59,7 @@ form {
   font-weight: 500;
   font-size: 1.5rem;
   line-height: 1;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .input-container {
@@ -172,6 +172,12 @@ textarea.input {
   margin: 0.7rem 0;
   align-items: center;
   font-size: 0.95rem;
+}
+.alert {
+  display: none;
+  color: #f9f9f9;
+  margin-left: 10rem;
+  margin-bottom: 1rem;
 }
 
 
